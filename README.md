@@ -52,8 +52,8 @@ download markdown
 download backup
 
 preview-->
-<!-- <h1 align="center">Hi 👋, I'm Tiago Queirós</h1> -->
-![MasterHead](header.png)
+<!-- <h1 align="center">Hi 👋, I'm Tiago Queirós</h1>
+![MasterHead](header.png) -->
 
 <h3 align="center">Driven Front-End Developer with hands-on experience in redesigning and optimizing web applications, from internships to leadership roles.</h3>
 
