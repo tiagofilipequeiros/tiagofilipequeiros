@@ -82,14 +82,15 @@ preview-->
 
 <hr/>
 
-<a href="https://app.daily.dev/tiagoqueiros"><img src="https://api.daily.dev/devcards/v2/eXvYfD4Oz1GOWoTvhPswi.png?type=default&r=hvn" width="256" alt="Tiago's Dev Card"/></a>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagofilipequeiros&show_icons=true&locale=en&theme=dracula" alt="tiagofilipequeiros" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofilipequeiros&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tiagofilipequeiros" />
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofilipequeiros&show_icons=true&locale=en&layout=donut&theme=dracula" alt="tiagofilipequeiros" /></p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagofilipequeiros&show_icons=true&locale=en&theme=dracula" alt="tiagofilipequeiros" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofilipequeiros&theme=dracula" alt="tiagofilipequeiros" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofilipequeiros&theme=dracula" alt="tiagofilipequeiros" />
-
+<p align="left">
+  <a href="https://app.daily.dev/tiagoqueiros"><img src="https://api.daily.dev/devcards/v2/eXvYfD4Oz1GOWoTvhPswi.png?type=default&r=hvn" width="356" alt="Tiago's Dev Card"/></a>
+</p>
 <!--
 Support 🙏
 Are you using the tool and happy with it to create your GitHub Profile?
