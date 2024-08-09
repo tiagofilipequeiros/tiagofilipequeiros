@@ -1,8 +1,16 @@
 ![MasterHead](header.png)
 
-<a href="https://app.daily.dev/tiagoqueiros"><img src="https://api.daily.dev/devcards/v2/eXvYfD4Oz1GOWoTvhPswi.png?type=default&r=hvn" width="256" alt="Tiago's Dev Card"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofilipequeiros&show_icons=true&theme=dracula)
+<section>
+  <div>
+    <a href="https://app.daily.dev/tiagoqueiros"><img src="https://api.daily.dev/devcards/v2/eXvYfD4Oz1GOWoTvhPswi.png?type=default&r=hvn" width="256" alt="Tiago's Dev Card"/></a>
+  </div>
+  <div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofilipequeiros&show_icons=true&theme=dracula)
+  </div>
+</section>
+
+
 <!--
 **tiagofilipequeiros/tiagofilipequeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
