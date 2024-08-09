@@ -1,6 +1,6 @@
-[![MasterHead](header.png)](your GitHub link)
+![MasterHead](header.png)
 
-<a href="https://app.daily.dev/tiagoqueiros"><img src="https://api.daily.dev/devcards/v2/eXvYfD4Oz1GOWoTvhPswi.png?type=default&r=hvn" width="356" alt="Tiago's Dev Card"/></a>
+<a href="https://app.daily.dev/tiagoqueiros"><img src="https://api.daily.dev/devcards/v2/eXvYfD4Oz1GOWoTvhPswi.png?type=default&r=hvn" width="256" alt="Tiago's Dev Card"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofilipequeiros&show_icons=true&theme=dracula)
 <!--
