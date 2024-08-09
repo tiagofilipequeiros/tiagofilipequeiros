@@ -85,11 +85,11 @@ preview-->
 <h3 align="left">GitHub Status:</h3>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagofilipequeiros&show_icons=true&locale=en&theme=dracula" alt="tiagofilipequeiros" /></p>
-
+<br/>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofilipequeiros&show_icons=true&locale=en&layout=donut&theme=dracula" alt="tiagofilipequeiros" /></p>
-
+<br/>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofilipequeiros&theme=dracula" alt="tiagofilipequeiros" /></p>
-
+<br/>
 <p align="left">
   <a href="https://app.daily.dev/tiagoqueiros"><img src="https://api.daily.dev/devcards/v2/eXvYfD4Oz1GOWoTvhPswi.png?type=default&r=hvn" width="356" alt="Tiago's Dev Card"/></a>
 </p>
