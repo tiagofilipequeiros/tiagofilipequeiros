@@ -86,7 +86,7 @@ preview-->
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagofilipequeiros&show_icons=true&locale=en&theme=dracula" alt="tiagofilipequeiros" /></p>
 <br/>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofilipequeiros&show_icons=true&locale=en&layout=donut&theme=dracula" alt="tiagofilipequeiros" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofilipequeiros&show_icons=true&locale=en&layout=donut&theme=dracula" alt="tiagofilipequeiros" /></p>
 <br/>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofilipequeiros&theme=dracula" alt="tiagofilipequeiros" /></p>
 <br/>
